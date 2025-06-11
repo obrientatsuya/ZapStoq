@@ -1,2 +1,1 @@
 # ZapStoq
-automated sell chat
